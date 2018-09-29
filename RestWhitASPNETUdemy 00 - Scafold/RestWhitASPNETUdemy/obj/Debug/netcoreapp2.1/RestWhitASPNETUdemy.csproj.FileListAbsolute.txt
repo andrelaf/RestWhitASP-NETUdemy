@@ -1,0 +1,14 @@
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\bin\Debug\netcoreapp2.1\RestWhitASPNETUdemy.deps.json
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\bin\Debug\netcoreapp2.1\RestWhitASPNETUdemy.runtimeconfig.json
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\bin\Debug\netcoreapp2.1\RestWhitASPNETUdemy.runtimeconfig.dev.json
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\bin\Debug\netcoreapp2.1\RestWhitASPNETUdemy.dll
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\bin\Debug\netcoreapp2.1\RestWhitASPNETUdemy.pdb
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.csprojAssemblyReference.cache
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.csproj.CoreCompileInputs.cache
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.RazorAssemblyInfo.cache
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.RazorAssemblyInfo.cs
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.AssemblyInfoInputs.cache
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.AssemblyInfo.cs
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.RazorTargetAssemblyInfo.cache
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.dll
+C:\ProjetoAulas\RestWhitASP-NETUdemy\RestWhitASPNETUdemy\RestWhitASPNETUdemy\obj\Debug\netcoreapp2.1\RestWhitASPNETUdemy.pdb
