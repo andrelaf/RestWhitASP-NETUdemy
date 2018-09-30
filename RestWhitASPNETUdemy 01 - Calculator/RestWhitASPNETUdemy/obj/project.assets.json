@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetoAulas\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
+      "projectUniqueName": "C:\\ProjetoAulas\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
       "projectName": "RestWhitASPNETUdemy",
-      "projectPath": "C:\\ProjetoAulas\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
+      "projectPath": "C:\\ProjetoAulas\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetoAulas\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy\\RestWhitASPNETUdemy\\obj\\",
+      "outputPath": "C:\\ProjetoAulas\\RestWhitASP-NETUdemy\\RestWhitASPNETUdemy 01 - Calculator\\RestWhitASPNETUdemy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
